@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Cartão de visita - Links.
 
-- [Acesse o projeto finalizado, online](https://ravycarvalhodeveloper.github.io/modern-form/)
+- [Acesse o projeto finalizado, online](https://ravycarvalhodeveloper.github.io/elevart-links/)
 
 ## 🔖 Layout
 
